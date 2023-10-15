@@ -22,7 +22,7 @@ namespace Practice
             string result = Sub(name);
             Console.WriteLine(result);
 
-            //Console.WriteLine("{0}に{1}", "牡蠣", "当たる");
+            //Console.WriteLine("{0}に{1}", "牡蠣", "外れる");
 
             //string data = "pen";
             //string data2 = "pineapple";
